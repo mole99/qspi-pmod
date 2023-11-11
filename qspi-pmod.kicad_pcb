@@ -169,7 +169,7 @@
       (net 8 "PMOD6") (pinfunction "IO3") (pintype "bidirectional") (tstamp 03b89512-8012-4b21-a94b-4db3e8494dbf))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "+3.3V") (pinfunction "VCC") (pintype "power_in") (tstamp ca333f7f-e3f1-4d90-b4b8-4c3592e4b59e))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -242,7 +242,7 @@
       (net 8 "PMOD6") (pinfunction "IO3") (pintype "bidirectional") (tstamp 2e1f85fc-02aa-49e7-98b2-6baee5002b78))
     (pad "8" smd roundrect (at 2.625 -1.905 90) (size 1.65 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "+3.3V") (pinfunction "VCC") (pintype "power_in") (tstamp a3a08d2e-c8a7-405e-a4e6-36cab948fc89))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8_3.9x4.9mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -586,9 +586,9 @@
     (pad "12" thru_hole oval (at -2.54 12.7) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 6 "+3.3V") (pinfunction "Pin_12") (pintype "passive") (tstamp ed0fb532-fe4e-4427-9b5f-49654ef8c21d))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x06_P2.54mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 -12.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -768,7 +768,7 @@
       (net 8 "PMOD6") (pinfunction "IO3") (pintype "bidirectional") (tstamp ae40cbe0-9e88-466c-af82-5b7382890b40))
     (pad "8" smd roundrect (at 2.625 -1.905 90) (size 1.65 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "+3.3V") (pinfunction "VCC") (pintype "power_in") (tstamp db32ddd5-8b4b-4ae7-92dd-de332d720364))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8_3.9x4.9mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

@@ -1,6 +1,6 @@
 # QSPI Pmod
 
-[![Upload to - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/mole99/qspi-pmod/main/qspi-pmod.kicad_pcb)
+[![Upload to - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/mole99/qspi-pmod/main/qspi-pmod.kicad_pcb&ref=QSPI-Pmod)
 
 A QSPI Pmod board designed in KiCad containing one Flash and two SPRAMs.
 
