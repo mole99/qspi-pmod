@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "qspi-pmod")(type "KiCad")(uri "${KIPRJMOD}/qspi-pmod.kicad_sym")(options "")(descr ""))
+)
