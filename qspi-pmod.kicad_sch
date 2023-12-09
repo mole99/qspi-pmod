@@ -1203,7 +1203,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 228.6 105.41 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 64b9cf99-c4a0-413f-9324-4f66ee3aaecd)
     (property "Reference" "C4" (at 231.14 104.1463 0)
       (effects (font (size 1.27 1.27)) (justify left))
