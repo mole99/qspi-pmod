@@ -3957,7 +3957,7 @@
 				)
 			)
 		)
-		(property "Value" "PMOD"
+		(property "Value" "2.54-2*6P Bend insert"
 			(at 71.12 83.82 0)
 			(effects
 				(font
@@ -4394,7 +4394,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "22pF"
 			(at 134.62 157.4799 0)
 			(effects
 				(font
@@ -4674,7 +4674,7 @@
 		(fields_autoplaced yes)
 		(uuid "78a8a60f-f6f8-45fe-918f-d5981336549e")
 		(property "Reference" "U1"
-			(at 143.51 88.9 0)
+			(at 143.51 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4682,8 +4682,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVS"
-			(at 143.51 91.44 0)
+		(property "Value" "W25Q128JVSIQ"
+			(at 143.51 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
