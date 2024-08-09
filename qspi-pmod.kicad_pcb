@@ -8,8 +8,8 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "QSPI-Pmod")
-		(rev "v1.0")
+		(title "${TITLE}")
+		(rev "${REVISION}")
 		(comment 4 "AISLER Project ID: BWKQLSIR")
 	)
 	(layers
@@ -6526,7 +6526,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "QSPI-Pmod v2.0"
+	(gr_text "${TITLE} ${REVISION}"
 		(at 140.8 93.9 0)
 		(layer "F.SilkS")
 		(uuid "1dcbcd14-6991-4c42-b0b7-406bc9d93e2d")
