@@ -84,7 +84,7 @@
 			(outputdirectory "fab/")
 		)
 	)
-	(property "REVISION" "v2.0")
+	(property "REVISION" "v2.1")
 	(property "TITLE" "QSPI-Pmod")
 	(net 0 "")
 	(net 1 "PMOD1")
@@ -118,7 +118,7 @@
 				)
 			)
 		)
-		(property "Value" "W25Q128JVSIQ"
+		(property "Value" "W25Q128JVSIM"
 			(at 0 3.56 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1876,7 +1876,7 @@
 				)
 			)
 		)
-		(property "MPN" "826634-6"
+		(property "MPN" "2.54-2*6P"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1889,7 +1889,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C492434"
+		(property "LCSC Part" "C60565"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3240,6 +3240,19 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ab594bf-971d-48f9-83b7-c9ce53dbbcfa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d9d3c58d-b61a-4651-b024-91ef5a9bff57")
 		(sheetname "Root")
@@ -4228,6 +4241,19 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e953a2d-0d44-4f3c-8d5d-2ae25423e2f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b5ebe11b-9520-4f05-90fb-b0ed668f7560")
 		(sheetname "Root")
@@ -4442,6 +4468,19 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af450079-2ba9-4005-aafa-a40ceecb7e04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/25dcec50-07e9-46c9-af8d-0445bc4479c2")
 		(sheetname "Root")
@@ -4651,6 +4690,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402CG220J500NT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "598bfc56-817f-42af-831e-07366face202")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

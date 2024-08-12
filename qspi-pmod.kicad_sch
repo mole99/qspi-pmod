@@ -3767,6 +3767,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 130.81 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b976a9ae-802e-4a53-8f28-ff77e26e104a")
 		)
@@ -3992,7 +4001,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "826634-6"
+		(property "MPN" "2.54-2*6P"
 			(at 71.12 97.79 0)
 			(effects
 				(font
@@ -4001,7 +4010,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C492434"
+		(property "LCSC Part" "C60565"
 			(at 71.1662 108.6699 0)
 			(effects
 				(font
@@ -4430,6 +4439,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0402CG220J500NT"
+			(at 130.81 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ebe33c53-4002-4880-a088-fa6906fda003")
 		)
@@ -4682,7 +4700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVSIQ"
+		(property "Value" "W25Q128JVSIM"
 			(at 143.51 91.4399 0)
 			(effects
 				(font
@@ -5207,6 +5225,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 146.05 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7326d4c7-0f83-44f9-aa48-116c3a52623b")
 		)
@@ -5715,6 +5742,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 138.43 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 138.43 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
